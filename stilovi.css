@@ -1,0 +1,56 @@
+body {
+	@charset "UTF-8";
+ background-image: url("backgroundxcf.jpg");
+ background-color: #cccccc;
+ height: 1024px; 
+  background-position: center; 
+  background-repeat: vertical-align; 
+  background-size: cover; 
+}
+
+
+h1 {
+	@charset "UTF-8";
+  color: navy;
+  text-align: center;
+}
+
+h2 {
+	@charset "UTF-8";
+  color: darkblue;
+  text-align: center;
+  }
+
+h3 {
+  color: blue;
+  @charset "UTF-8";
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+h4 {
+  color: black;
+  text-align: right;
+}
+
+p {
+	@charset "UTF-8";
+  color: rgba(20, 20, 255, 0.5);
+  font-size:20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+ul {
+	@charset "UTF-8";
+  color: darkblue;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+ol {
+	@charset "UTF-8";
+  color: blue;
+  margin-left: 10px;
+ 
+}

@@ -1,0 +1,39 @@
+body {
+  background-color: lightgrey;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+   margin-left: 150px;
+  margin-right: 150px;
+}
+
+h3 {
+  color: blue;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+p {
+  color: rgba(20, 20, 200, 0.5);
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+ul {
+  color: darkblue;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+ol {
+  color: blue;
+  margin-left: 50px;
+  margin-right: 50px;
+}
